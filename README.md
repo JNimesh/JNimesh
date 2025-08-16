@@ -30,16 +30,6 @@ contributor.
 
 ---
 
-## 🛠️ Skills
-
-- **Backend:** Java, Kotlin, Spring, Node.js, GraphQL, REST, gRPC, Microservices  
-- **Frontend:** React, Next.js, Redux-Saga, Ant Design, Tailwind CSS, AngularJS  
-- **Cloud & DevOps:** AWS (Lambda, Step Functions, Fargate, CDK, AppSync, Cognito, CloudFront), Docker, CI/CD, Cloud Security  
-- **Databases:** DynamoDB, MySQL, PostgreSQL, Redis, Elasticsearch  
-- **Practices:** Agile, Technical Leadership, Code Reviews, TDD, Architecture Design
-
----
-
 ## 💼 Employment History
 
 ### **Technical Lead – [Litecard](https://litecard.com.au/)** (2023 – Present, Remote)
@@ -114,3 +104,15 @@ pagination for large datasets, and image icons in table columns.
 Timezone.
 - Delivered automated testing across UI, backend, and API layers, building a Selenium-based UI automation framework,
 and validated large-scale data handling by successfully importing 10,000 records in multiple formats.
+
+---
+
+## 🛠️ Skills
+
+- **Backend:** Java, Kotlin, Spring, Node.js, GraphQL, REST, gRPC, Microservices  
+- **Frontend:** React, Next.js, Redux-Saga, Ant Design, Tailwind CSS, AngularJS  
+- **Cloud & DevOps:** AWS (Lambda, Step Functions, Fargate, CDK, AppSync, Cognito, CloudFront), Docker, CI/CD, Cloud Security  
+- **Databases:** DynamoDB, MySQL, PostgreSQL, Redis, Elasticsearch  
+- **Practices:** Agile, Technical Leadership, Code Reviews, TDD, Architecture Design
+
+---
