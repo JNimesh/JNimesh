@@ -3,7 +3,7 @@
 **AWS Certified Solutions Architect | Technical Lead | Full-Stack Engineer (Java / React / Node.js / AWS)**
 
 🌍 Based in Sri Lanka | 💻 Remote-first professional  
-📧 [Email](mailto:jnimeshasanka@gmail.com) | 🔗 [LinkedIn](https://linkedin.com/in/nimesh-jayamanne-85623078) | 🐙 [GitHub](https://github.com/JNimesh)
+📧 [Email](mailto:jnimeshasanka@gmail.com) | 🔗 [LinkedIn](https://linkedin.com/in/nimesh-jayamanne-85623078)
 
 ---
 Nimesh is an AWS Certified Solutions Architect with over 10 years of experience in software engineering. He has strong
