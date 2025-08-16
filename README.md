@@ -6,7 +6,6 @@
 📧 [Email](mailto:jnimeshasanka@gmail.com) | 🔗 [LinkedIn](https://linkedin.com/in/nimesh-jayamanne-85623078) | 🐙 [GitHub](https://github.com/JNimesh)
 
 ---
-
 Nimesh is an AWS Certified Solutions Architect with over 10 years of experience in software engineering. He has strong
 expertise in Java, Node.js, React, and AWS cloud services, building scalable systems with microservices and serverless
 architectures. His skills cover RESTful APIs, event-driven systems, and databases including MySQL, PostgreSQL, and
@@ -16,6 +15,28 @@ With more than 4 years of technical leadership, Nimesh has led teams to deliver 
 highly skilled in problem-solving, architecture design, and guiding teams to achieve milestones. His experience in both
 front-end and back-end development, combined with cloud-native design, makes him a strong technical leader and
 contributor.
+
+---
+
+## 🏅 Certifications
+- [**AWS Certified Solutions Architect – Professional**](https://www.credly.com/badges/a9f440d1-ffbc-42ad-8a5a-afb980e53104/linked_in_profile) (2025–2028)  
+- [**AWS Certified Developer – Associate**](https://www.credly.com/badges/e47be4aa-8933-4def-96e6-72b32da57705) (2024–2027)  
+
+---
+
+## 🎓 Education
+- **MSc in Software Engineering (Distinction)** – Kingston University, London (2024 – 2025)  
+- **BSc (Hons) in Electronic & Telecommunication Engineering (First Class Honors)** – University of Moratuwa, Sri Lanka (2010 – 2015)  
+
+---
+
+## 🛠️ Skills
+
+- **Backend:** Java, Kotlin, Spring, Node.js, GraphQL, REST, gRPC, Microservices  
+- **Frontend:** React, Next.js, Redux-Saga, Ant Design, Tailwind CSS, AngularJS  
+- **Cloud & DevOps:** AWS (Lambda, Step Functions, Fargate, CDK, AppSync, Cognito, CloudFront), Docker, CI/CD, Cloud Security  
+- **Databases:** DynamoDB, MySQL, PostgreSQL, Redis, Elasticsearch  
+- **Practices:** Agile, Technical Leadership, Code Reviews, TDD, Architecture Design
 
 ---
 
@@ -93,26 +114,3 @@ pagination for large datasets, and image icons in table columns.
 Timezone.
 - Delivered automated testing across UI, backend, and API layers, building a Selenium-based UI automation framework,
 and validated large-scale data handling by successfully importing 10,000 records in multiple formats.
-
----
-
-## 🎓 Education
-- **MSc in Software Engineering (Distinction)** – Kingston University, London (2024 – 2025)  
-- **BSc (Hons) in Electronic & Telecommunication Engineering (First Class Honors)** – University of Moratuwa, Sri Lanka (2010 – 2015)  
-
----
-
-## 🏅 Certifications
-- [**AWS Certified Solutions Architect – Professional**](https://www.credly.com/badges/a9f440d1-ffbc-42ad-8a5a-afb980e53104/linked_in_profile) (2025–2028)  
-- [**AWS Certified Developer – Associate**](https://www.credly.com/badges/e47be4aa-8933-4def-96e6-72b32da57705) (2024–2027)  
-
----
-
-## 🛠️ Skills
-
-- **Backend:** Java, Kotlin, Spring, Node.js, GraphQL, REST, gRPC, Microservices  
-- **Frontend:** React, Next.js, Redux-Saga, Ant Design, Tailwind CSS, AngularJS  
-- **Cloud & DevOps:** AWS (Lambda, Step Functions, Fargate, CDK, AppSync, Cognito, CloudFront), Docker, CI/CD, Cloud Security  
-- **Databases:** DynamoDB, MySQL, PostgreSQL, Redis, Elasticsearch  
-- **Practices:** Agile, Technical Leadership, Code Reviews, TDD, Architecture Design  
----
